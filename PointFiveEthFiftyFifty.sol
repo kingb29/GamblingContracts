@@ -4,7 +4,7 @@ pragma solidity >= 0.5.0 < 0.6.0;
 
 import "github.com/provable-things/ethereum-api/provableAPI.sol";
 
-contract PointOneEthFiftyFifty is usingProvable
+contract PointFiveEthFiftyFifty is usingProvable
 {
    
     address payable[] public users; // array of users who sent .5 eth to the contract
