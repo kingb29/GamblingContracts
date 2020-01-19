@@ -1,4 +1,5 @@
 // Created by EighthLayer 
+// For more information go to EighthLayer.org
 // More contracts at https://github.com/EighthLayer/FiftyFiftyContracts
 pragma solidity >= 0.5.0 < 0.6.0;
 
